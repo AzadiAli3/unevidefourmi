@@ -1,0 +1,39 @@
+Projet ma fourmilaire
+
+Créer des salle S1 , S2 
+
+Parcours en profondeur fourmi  
+
+Faire en sorte que une fourmi arrive le plus rapidement 
+
+Les algorithmes DFS BFS et Dijkstra
+
+Deep first search, Breath first search 
+
+Algorithme de Dijkstra
+
+Liste chainées 
+
+Arbres binaire en informatique 
+
+Strucute de donées hierarchique non lineaire constitue d'un ensemble de nœuds:
+
+Arbres N Aires 
+
+Graphes
+
+Theorie des Graphes
+
+Type de graphes orienté / non orienté 
+
+Graphe pondéré et non pondéré 
+
+Matrice d'adjacence
+
+A apprendre 
+
+Matrice adjacecne ^matrice de degrée  
+
+²
+
+ 
