@@ -1,0 +1,16 @@
+BFS (Breadth-First Search)
+Compilation Commands:
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_0 fourmiliere_0.cpp
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_1 fourmiliere_1.cpp
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_2 fourmiliere_2.cpp
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_3 fourmiliere_3.cpp
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_4 fourmiliere_4.cpp
+g++ -std=c++17 -Wall -Wextra -O2 -o fourmiliere_5 fourmiliere_5.cpp
+
+run executable:
+./fourmiliere_0
+./fourmiliere_1
+./fourmiliere_2
+./fourmiliere_3
+./fourmiliere_4
+./fourmiliere_5

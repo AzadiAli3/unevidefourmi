@@ -1,0 +1,8 @@
+digraph G {
+S1
+S2
+Sv -> S1;
+Sv -> S2;
+S1 -> Sd;
+S2 -> Sd;
+}
